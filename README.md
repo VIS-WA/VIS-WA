@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Linkedin Badge](https://img.shields.io/badge/Savitha_Viswanadh-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![Gmail Badge](https://img.shields.io/badge/KandalaViswanadh-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/Savitha_Viswanadh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savitha-viswanadh)
+[![Gmail Badge](https://img.shields.io/badge/KandalaViswanadh-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kandalaviswanadh@gmail.com)
 
 Welcome to my profile!! Profile is still under construction
 <!-- 
