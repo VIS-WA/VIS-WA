@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-savitha-viswanadh?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savitha-viswanadh)](https://www.linkedin.com/in/savitha-viswanadh)
+[![Linkedin Badge](https://img.shields.io/badge/-savitha-viswanadh-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savitha-viswanadh)](https://www.linkedin.com/in/savitha-viswanadh)
 [![Gmail Badge](https://img.shields.io/badge/-kandalaviswanadh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kandalaviswanadh@gmail.com)](mailto:kandalaviswanadh@gmail.com)
 
 Welcome to my profile!! Profile is still under construction
